@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="login.css">
+<title>Login</title>
+</head>
+<body>
+    <div class="login-page">
+      <div class="form">
+        <div class="login">
+          <div class="login-header">
+            <h3>LOGIN</h3>
+            <p>Please enter your credentials to login.</p>
+          </div>
+        </div>
+        <form class="login-form">
+          <input type="text" placeholder="username"/>
+          <input type="password" placeholder="password"/>
+          <button><a href="index.html">Login</a></button>
+          <p class="message">Not registered? <a href="form.html">Create an account</a></p>
+        </form>
+      </div>
+    </div>
+    <script type="module">
+        // Import the functions you need from the SDKs you need
+        import { initializeApp } from "https://www.gstatic.com/firebasejs/9.10.0/firebase-app.js";
+        // TODO: Add SDKs for Firebase products that you want to use
+        // https://firebase.google.com/docs/web/setup#available-libraries
+      
+        // Your web app's Firebase configuration
+        const firebaseConfig = {
+          apiKey: "AIzaSyDLi2a206JZIRCiRaQLS5WB8R3ODQPlWe4",
+          authDomain: "mumbaiguidebook.firebaseapp.com",
+          projectId: "mumbaiguidebook",
+          storageBucket: "mumbaiguidebook.appspot.com",
+          messagingSenderId: "412310339157",
+          appId: "1:412310339157:web:668ac5dac9d302939a1edc"
+        };
+      
+        // Initialize Firebase
+        const app = initializeApp(firebaseConfig);
+      </script>
+</body>
+</html>
