@@ -1,22 +1,22 @@
-# 🏙️ Mumbai Guidebook
+# Mumbai Guidebook
 
 **Mumbai Guidebook** is a basic HTML and CSS project that provides an informative guide to various places in Mumbai — including hotels, food spots, shopping areas, tourist attractions, and more.
 
 ---
 
-## 📌 Features
+## Features
 
-- 🏨 Hotel listings and details
-- 🍽️ Food and restaurant recommendations
-- 🛍️ Shopping areas
-- 📍 Tourist places to visit
-- 📋 User form for interaction
-- 🔐 Simple login interface
-- 🎨 Custom styles for each section
+- Hotel listings and details
+- Food and restaurant recommendations
+- Shopping areas
+- Tourist places to visit
+- User form for interaction
+- Simple login interface
+- Custom styles for each section
 
 ---
 
-## 🗂 File Structure
+## File Structure
 
 ```
 
@@ -43,7 +43,7 @@ mumbaiguidebook/
 
 ---
 
-## 🌐 How to Use
+## How to Use
 
 1. Clone or download the repository:
    ```bash
@@ -56,7 +56,7 @@ mumbaiguidebook/
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 This project was built as a simple frontend website to demonstrate:
 
